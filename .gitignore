@@ -16,7 +16,6 @@ frontend/.env.*
 # Binaries & Builds
 cloudflared.exe
 *.apk
-backend/dist/
 frontend/dist/
 
 # OS
